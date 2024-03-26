@@ -21,10 +21,3 @@ Este é um projeto simples de uma calculadora em Java, que realiza operações m
 
 5. Sinta-se à vontade para fazer alterações ou adicionar novas funcionalidades conforme necessário.
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
